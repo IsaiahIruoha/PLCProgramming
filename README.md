@@ -1,4 +1,4 @@
-# PLCProgramming
+# Conveyor Line Project
 
 Significant personal PLC programming project specifically for training during my internship at Linamar Corporation, completed a theoretical line with conveyors and turn tables. 
 
